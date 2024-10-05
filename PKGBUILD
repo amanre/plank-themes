@@ -2,8 +2,8 @@
 pkgname=plank-themes-git
 _pkgname=plank-themes
 _destname1="/usr/share/plank/themes/"
-pkgver=1
-pkgrel=02
+pkgver=24.10
+pkgrel=01
 pkgdesc="Plank themes "
 arch=('any')
 url="https://github.com/amanre/plank-themes"
